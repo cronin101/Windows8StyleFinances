@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>Q-BODY</Machine>
+    <WindowsUser>croni_000</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>5387b90a-b0e0-473c-b0ad-af068e993a8a</PackageIdentityName>
+    <IntermediateOutputPath>E:\Users\croni_000\Documents\GitHub\Windows8StyleFinances\Finance\Finance\Finance.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>6957AF5A2E6407F7086961FEDC399AA5F8D5396777685E59A39944E90C94CF14</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>5387b90a-b0e0-473c-b0ad-af068e993a8a_1.0.0.0_neutral__t5rxmdsrg7fv4</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>5387b90a-b0e0-473c-b0ad-af068e993a8a_t5rxmdsrg7fv4!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>5387b90a-b0e0-473c-b0ad-af068e993a8a</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=croni_000</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\Users\croni_000\Documents\GitHub\Windows8StyleFinances\Finance\Finance\Finance.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-08-31T21:11:00.530</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\Users\croni_000\Documents\GitHub\Windows8StyleFinances\Finance\Finance\Finance.Windows\bin\Debug\Finance.Windows.exe">
+      <PackagePath>Finance.Windows.exe</PackagePath>
+      <Modified>2014-08-31T21:11:00.444</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\croni_000\Documents\GitHub\Windows8StyleFinances\Finance\Finance\Finance.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-12T19:06:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\croni_000\Documents\GitHub\Windows8StyleFinances\Finance\Finance\Finance.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-12T19:06:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\croni_000\Documents\GitHub\Windows8StyleFinances\Finance\Finance\Finance.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-12T19:06:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\croni_000\Documents\GitHub\Windows8StyleFinances\Finance\Finance\Finance.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-12T19:06:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\croni_000\Documents\GitHub\Windows8StyleFinances\Finance\Finance\Finance.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-08-31T20:22:38.910</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\croni_000\Documents\GitHub\Windows8StyleFinances\Finance\Finance\Finance.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-08-31T21:10:59.972</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\croni_000\Documents\GitHub\Windows8StyleFinances\Finance\Finance\Finance.Windows\bin\Debug\Finance.Windows.xr.xml">
+      <PackagePath>Finance.Windows.xr.xml</PackagePath>
+      <Modified>2014-08-31T21:06:29.064</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\croni_000\Documents\GitHub\Windows8StyleFinances\Finance\Finance\Finance.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-08-31T21:11:00.490</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
